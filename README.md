@@ -1,2 +1,2 @@
 # exifDate
-Tool for change modified date to EXIF created date on macOS.
+Tool for changing modified date to EXIF created date on macOS.
